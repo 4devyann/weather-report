@@ -1,3 +1,4 @@
 export const environment = {
-  production: true
+  production: true,
+  PROJECT_NAME: 'WEATHER PRODUCTION',
 };
